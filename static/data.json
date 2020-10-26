@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "HTML course",
+    "description": "Learning HTML in 3 hour",
+    "cost": 3000,
+    "date": "2021-04-10"
+  },
+  {
+    "id": 2,
+    "name": "CSS course",
+    "description": "How customize your page",
+    "cost": 2500,
+    "date": "2021-05-03"
+  },
+  {
+    "id": 3,
+    "name": "JQuery course",
+    "description": "Learning how fetch data",
+    "cost": 2000,
+    "date": "2021-05-23"
+  },
+  {
+    "id": 4,
+    "name": "PHP course",
+    "description": "How build database",
+    "cost": 1500,
+    "date": "2021-06-03"
+  },
+  {
+    "id": 5,
+    "name": "MySQL course",
+    "description": "How build database",
+    "cost": 1000,
+    "date": "2021-09-01"
+  },
+  {
+    "id": 6,
+    "name": "Deploy course",
+    "description": "How to deploy on AWS",
+    "cost": 500,
+    "date": "2021-10-20"
+  }
+]
